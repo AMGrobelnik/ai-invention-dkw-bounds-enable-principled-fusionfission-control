@@ -10,9 +10,9 @@ Click the badges below to open notebooks directly in Google Colab:
 
 | Artifact | Description | Open in Colab |
 |----------|-------------|---------------|
-| `dataset_001` | This dataset comprises structured information inte... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
-| `experiment_001` | This experiment investigates the efficacy of a nov... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/experiment_001/demo/method_demo.ipynb) |
-| `evaluation_001` | The artifact labeled as evaluation_001 provides a ... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
+| `dataset_001` | This dataset (ID: dataset_001) comprises a structu... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
+| `experiment_001` | This experiment investigates the effect of variabl... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/experiment_001/demo/method_demo.ipynb) |
+| `evaluation_001` | This artifact serves as an evaluation to assess th... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
 
 ## Repository Structure
 
