@@ -10,9 +10,9 @@ Click the badges below to open notebooks directly in Google Colab:
 
 | Artifact | Description | Open in Colab |
 |----------|-------------|---------------|
-| `dataset_001` | Dataset_001 is a comprehensive collection designed... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
-| `experiment_001` | This experiment investigates the effects of specif... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/experiment_001/demo/method_demo.ipynb) |
-| `evaluation_001` | This evaluation artifact assesses the effectivenes... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
+| `dataset_001` | Dataset_001 contains a comprehensive collection of... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
+| `experiment_001` | This experiment investigates the effects of variab... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/experiment_001/demo/method_demo.ipynb) |
+| `evaluation_001` | This evaluation artifact systematically assesses t... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
 
 ## Repository Structure
 
@@ -21,12 +21,13 @@ Each artifact has its own folder with source code and demos:
 ```
 .
 ├── <artifact_id>/
-│   ├── src/                     # Original source files
+│   ├── src/                     # Full workspace from execution
 │   │   ├── method.py            # Main implementation
-│   │   ├── method_out.json      # Output data
-│   │   └── artifact_summary.md  # Description
+│   │   ├── method_out.json      # Full output data
+│   │   ├── mini_method_out.json # Mini version (3 examples)
+│   │   └── ...                  # All execution artifacts
 │   └── demo/                    # Self-contained demos
-│       └── method_demo.ipynb    # Colab-ready notebook
+│       └── method_demo.ipynb    # Colab-ready notebook (code + data inlined)
 ├── <another_artifact>/
 │   ├── src/
 │   └── demo/
