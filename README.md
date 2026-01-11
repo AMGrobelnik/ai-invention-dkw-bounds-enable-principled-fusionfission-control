@@ -26,6 +26,11 @@ Click the badges below to open notebooks directly in Google Colab:
 |----------|-------------|--------------|
 | `finding_001` | Finding_001 presents novel insights into the speci... | [![View Finding](https://img.shields.io/badge/View-Finding-green)](https://github.com/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/finding_001/demo/finding_001.md) |
 
+
+### Research Paper
+
+[![Download PDF](https://img.shields.io/badge/Download-PDF-red)](https://github.com/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/paper/paper.pdf) [![LaTeX Source](https://img.shields.io/badge/LaTeX-Source-orange)](https://github.com/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/tree/main/paper)
+
 ## Repository Structure
 
 Each artifact has its own folder with source code and demos:
