@@ -10,21 +10,21 @@ Click the badges below to open notebooks directly in Google Colab:
 
 | Artifact | Description | Open in Colab |
 |----------|-------------|---------------|
-| `dataset_001` | This dataset (ID: dataset_001) serves as a compreh... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
-| `experiment_001` | This experiment investigated the impact of variabl... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/experiment_001/demo/method_demo.ipynb) |
-| `evaluation_001` | This evaluation assesses the effectiveness of the ... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
+| `dataset_001` | Dataset ID dataset_001 provides a comprehensive co... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
+| `experiment_001` | This experiment (ID: experiment_001) evaluates the... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/experiment_001/demo/method_demo.ipynb) |
+| `evaluation_001` | This evaluation assesses the efficacy of the metho... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
 
 ### Formal Proofs
 
 | Artifact | Description | Verify in Lean |
 |----------|-------------|----------------|
-| `proof_001` | The proof presented in this artifact, labeled as p... | [![Verify in Lean](https://img.shields.io/badge/Lean_4-Verify_Proof-blue)](https://live.lean-lang.org/#codez=JYWwDg9gTgLgBAWQIYwBYBtgCMB0AVJAYxmEICgyB6AWmrgBEBpAdTmADsBTARwFclMMAJ5xOYAM7B0EdnCwRe7ACZwAZtDizxScOk7i4Ad2Bo4hGauBLO7QpzjX0MJHGqUyaTtE4gHAa0MAfTFJaXZA+UUVAApZAC44QFRCAEo4aMdnOATAXEJU6NR4zThAUyI4ACY81BUEgAY4AB4HTickSqUyrKaWhrgARlS4sjhhuAAlTgEccW5YNPHJ6QBzNI7KLudUteiOgCpNZNSAPjg6uIBeOSEhuCQwMHQRefQpmZhAyHFAiFV3iHFr273ERKYAAN1+-2GAHabncHmMJs8lhDrsNAfCZJxAk5AiDQXAqqi4Jh2EgoCZUNcYeiRCBeOgUSM4DD2NAQIF2LwQESYZwAB5EeAAORQOEISHEbw+OHAUDSWBEEBAnEWrQoNDoAFEoFANFAUPZgAZIspOCoFaJwMByeL0HB9TB7PdeAYQlIZEYKQTgItUHAwLqsEgsFITCI3GQ9CAQC5ODroBEFMpAqgIOglAZoj4wNbSAJgvG5W6wp1cmlUPZanBACZElpzNvzcd1UEqIU6dUaxZkAyJ2dztoLzZrdf7jcLcAA1KIJO74hcFdcSWSKeraHAAGIu4Aeo1wbSqeyGCuyJsaXh3ONyJMqXdYZoQQxwNBQfSp9Oudyeby+VRbmSBfd7CzQtAnPMA40TKIn1QF9xDfao4DLfJOlPKBQIvNCTRURpn1fNMlB7JlUPQ8DMOvHpcLg-CsguSkgA) |
+| `proof_001` | This artifact provides a formal proof, identified ... | [![Verify in Lean](https://img.shields.io/badge/Lean_4-Verify_Proof-blue)](https://live.lean-lang.org/#codez=JYWwDg9gTgLgBAWQIYwBYBtgCMB0AVJAYxmEICgyB6AWmrgBEBpAdTmADsBTARwFclMMAJ5xOYAM7B0EdnCwRe7ACZwAZtDizxScOk7i4Ad2Bo4hGauBLO7QpzjX0MJHGqUyaTtE4gHAa0MAfTFJaXZA+UUVAApZAC44QFRCAEo4aMdnOATAXEJU6NR4zThAUyI4ACY81BUEgAY4AB4HTickSqUyrKaWhrgARlS4sjhhuAAlTgEccW5YNPHJ6QBzNI7KLudUteiOgCpNZNSAPjg6uIBeOSEhuCQwMHQRefQpmZhAyHFAiFV3iHFr273ERKYAAN1+-2GAHabncHmMJs8lhDrsNAfCZJxAk5AiDQXAqqi4Jh2EgoCZUNcYeiRCBeOgUSM4DD2NAQIF2LwQESYZwAB5EeAAORQOEISHEbw+OHAUDSWBEEBAnEWrQoNDoAFEoFANFAUPZgAZIspOCoFaJwMByeL0HB9TB7PdeAYQlIZEYKQTgItUHAwLqsEgsFITCI3GQ9CAQC5ODroBEFMpAqgIOglAZoj4wNbSAJgvG5W6wp1cmlUPZanBACZElpzNvzcd1UEqIU6dUaxZkAyJ2dztoLzZrdf7jcLcAA1KIJO74hcFdcSWSKeraHAAGIu4Aeo1wbSqeyGCuyJsaXh3ONyJMqXdYZoQQxwNBQfSp9Oudyeby+VRbmSBfd7CzQtAnPMA40TKIn1QF9xDfao4DLfJOlPKBQIvNCTRURpn1fNMlB7JlUPQ8DMOvHpcLg-CsguSkgA) |
 
 ### Findings & Documentation
 
 | Artifact | Description | View Finding |
 |----------|-------------|--------------|
-| `finding_001` | This finding explores the effects of variable X on... | [![View Finding](https://img.shields.io/badge/View-Finding-green)](https://github.com/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/finding_001/demo/finding_001.md) |
+| `finding_001` | Finding_001 represents a key discovery in the ongo... | [![View Finding](https://img.shields.io/badge/View-Finding-green)](https://github.com/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/finding_001/demo/finding_001.md) |
 
 ## Repository Structure
 
