@@ -1,0 +1,36 @@
+{
+  "baseline": [
+    {
+      "id": "example_000",
+      "decision": "fission",
+      "error": false
+    },
+    {
+      "id": "example_001",
+      "decision": "fission",
+      "error": false
+    },
+    {
+      "id": "example_002",
+      "decision": "fission",
+      "error": true
+    }
+  ],
+  "proposed": [
+    {
+      "id": "example_000",
+      "decision": "fission",
+      "error": false
+    },
+    {
+      "id": "example_001",
+      "decision": "fusion",
+      "error": false
+    },
+    {
+      "id": "example_002",
+      "decision": "fusion",
+      "error": true
+    }
+  ]
+}

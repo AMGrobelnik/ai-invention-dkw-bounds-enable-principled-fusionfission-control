@@ -1,0 +1,20 @@
+[
+  {
+    "id": "example_000",
+    "question": "What is 2+2?",
+    "answer": "4",
+    "difficulty": 0.15
+  },
+  {
+    "id": "example_001",
+    "question": "If x=5, what is 2x?",
+    "answer": "10",
+    "difficulty": 0.22
+  },
+  {
+    "id": "example_002",
+    "question": "Solve: 3y + 6 = 15",
+    "answer": "y=3",
+    "difficulty": 0.28
+  }
+]
