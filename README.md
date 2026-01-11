@@ -10,9 +10,9 @@ Click the badges below to open notebooks directly in Google Colab:
 
 | Artifact | Description | Open in Colab |
 |----------|-------------|---------------|
-| `dataset_001` | Dataset_001 is a comprehensive collection of data ... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
+| `dataset_001` | Dataset_001 is a comprehensive linguistic dataset ... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/dataset_001/demo/data_demo.ipynb) |
 | `experiment_001` | This experiment investigates the relationship betw... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/experiment_001/demo/method_demo.ipynb) |
-| `evaluation_001` | This evaluation artifact assesses the effectivenes... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
+| `evaluation_001` | Evaluation artifact (evaluation_001) assesses the ... | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMGrobelnik/ai-invention-dkw-bounds-enable-principled-fusionfission-control/blob/main/evaluation_001/demo/eval_demo.ipynb) |
 
 ## Repository Structure
 
